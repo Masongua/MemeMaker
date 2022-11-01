@@ -32,9 +32,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    var topChoices: [String] = [CaptionOption(emoji: "🐹", caption: "Ham"), CaptionOption(emoji: "🫥", caption: "bruh")]
+    var topChoices = [CaptionOption(emoji: "🐹", caption: "Ham"), CaptionOption(emoji: "🫥", caption: "bruh")]
     
-    var bottomChoices: [String] = [CaptionOption(emoji: "👦", caption: "boy"), CaptionOption(emoji: "🧽", caption: "sponge")]
+    var bottomChoices = [CaptionOption(emoji: "👦", caption: "boy"), CaptionOption(emoji: "🧽", caption: "sponge")]
     
     
 
